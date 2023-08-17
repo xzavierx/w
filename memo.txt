@@ -1,0 +1,32 @@
+weapp-library
+    https://github.com/imageslr/weapp-library.git
+web_robot
+    https://github.com/webgjc/web_robot.git
+tusd
+    https://gitee.com/mirrors/tusd.git
+StreamSaver.js
+    https://github.com/jimmywarting/StreamSaver.js.git
+taglib
+    https://github.com/taglib/taglib.git
+services
+    https://github.com/micro/services.git
+rlocate-0.5.6
+
+qor
+    https://github.com/qor/qor.git
+deeping-rlocate
+    git@github.com:linuxdeepin/deepin-rlocate.git
+mixxx
+    https://github.com/mixxxdj/mixxx.git
+
+recipes:
+    git@github.com:chenshuo/recipes.git
+
+Qt-Advanced-Docking-System:
+    https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System.git
+
+hiredis:
+    https://github.com/redis/hiredis.git
+
+go-fastdfs:
+    https://gitee.com/sjqzhang/go-fastdfs.git
